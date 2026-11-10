@@ -178,16 +178,32 @@ plt.show()
 ### i) Grayscale Histogram Equalization
 
 - Original grayscale image is displayed.
+  <img width="645" height="395" alt="image" src="https://github.com/user-attachments/assets/30f4831f-3e91-49b2-b11f-c545eec866e6" />
+
 - Histogram of the original grayscale image is plotted.
+  <img width="1092" height="597" alt="image" src="https://github.com/user-attachments/assets/78c84624-82d2-45ac-ab03-e0d341b95405" />
+
 - Equalized grayscale image is displayed.
+  <img width="680" height="402" alt="image" src="https://github.com/user-attachments/assets/a3bd7a02-6c5b-4983-9cee-4762b17c12f1" />
+
 - Histogram of the equalized grayscale image is plotted.
+  <img width="996" height="577" alt="image" src="https://github.com/user-attachments/assets/9812b125-72f0-49ce-abac-6d37153e5cff" />
+
 
 ### ii) Color Image Histogram Equalization
 
 - Original color image is displayed.
+  <img width="715" height="392" alt="image" src="https://github.com/user-attachments/assets/30637d75-bc62-4f28-aa89-742c991d024b" />
+
 - Histograms of the Blue, Green, and Red channels are plotted.
+  <img width="995" height="601" alt="image" src="https://github.com/user-attachments/assets/82594326-bfa4-4b00-b690-7382f74807d1" />
+
 - Enhanced color image after equalization of the HSV Value channel is displayed.
+  <img width="687" height="393" alt="image" src="https://github.com/user-attachments/assets/882be97c-9efe-4bae-ac5c-cc111add89d9" />
+
 - Histograms of the enhanced image's Blue, Green, and Red channels are plotted.
+  <img width="968" height="600" alt="image" src="https://github.com/user-attachments/assets/2255fa9d-6845-44cd-b1da-d4fd3f3d38ce" />
+
 
 ## RESULT
 
